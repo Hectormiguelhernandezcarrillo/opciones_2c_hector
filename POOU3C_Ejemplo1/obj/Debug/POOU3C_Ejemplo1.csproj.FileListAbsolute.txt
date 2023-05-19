@@ -1,0 +1,15 @@
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.exe.config
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.exe
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.pdb
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.exe
+C:\Users\ulise\source\repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.pdb
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.exe.config
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.exe
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\bin\Debug\POOU3C_Ejemplo1.pdb
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.exe
+C:\Users\hecto\Source\Repos\POOU3C_Ejemplo1\obj\Debug\POOU3C_Ejemplo1.pdb
